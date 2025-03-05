@@ -18,7 +18,7 @@ The dataset contains news headlines from various sources. We focus on:
 
 ```python
 # Load the dataset
-df = pd.read_csv('news-aggregator-dataset.csv', encoding='latin1')
+df = pd.read_csv('data/news-aggregator-dataset.csv', encoding='latin1')
 ```
 
 #### Handling Missing Values
